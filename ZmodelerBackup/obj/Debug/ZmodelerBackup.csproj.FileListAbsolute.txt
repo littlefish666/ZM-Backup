@@ -1,0 +1,6 @@
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\bin\Debug\ZmodelerBackup.exe.config
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\bin\Debug\ZmodelerBackup.exe
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\bin\Debug\ZmodelerBackup.pdb
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\obj\Debug\ZmodelerBackup.csprojResolveAssemblyReference.cache
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\obj\Debug\ZmodelerBackup.exe
+G:\Visual Studio Shared Projects\ZmodelerBackup\ZmodelerBackup\obj\Debug\ZmodelerBackup.pdb
